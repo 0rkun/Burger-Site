@@ -1,0 +1,26 @@
+.footer{
+    background: brown;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+}
+
+.footer .socialMedia svg{
+    margin: 20px;
+    font-size: 50px;
+}
+.footer .socialMedia:hover{
+    cursor: pointer;
+}
+.footer p{
+    font-size: 0.6rem;
+}
+.footer .socialMedia button{
+    border: none;
+    color: #fff;
+    background-color: brown;
+    cursor: pointer;
+}

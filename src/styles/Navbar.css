@@ -1,0 +1,18 @@
+.navbar{
+    background-color: brown;
+    padding: 10px 10px 10px 50px;
+} 
+.navbar .main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .main img{
+    width: 80px;
+}
+.navbar a{
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 0.8rem;
+    color: #fff;
+}
